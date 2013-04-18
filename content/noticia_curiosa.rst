@@ -7,7 +7,7 @@ BEBE SANGRE HUMANA
 :slug: my-super-post-1
 :author: Idoia
 
-.. image::bleed.png
+.. :image::bleed.png
 
 **Michelle** de 29 años, **sufre una extraña adicción que le impulsa a beber sangre**. Descubierta por el programa My Strange Adicction, Michelle la sangre que toma es normalmente de animales como el cerdo, pero ella prefiere succionar la sangre humana.
 
