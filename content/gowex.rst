@@ -7,7 +7,7 @@ WIFI GRATIS EN NUEVA YORK
 :slug: my-super-post-2
 :author: idoia
 
-.. image::|filename|gowex.png
+.. image::gowex.png
    :width: 100%
    :height: 100
    :scale: 50
