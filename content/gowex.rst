@@ -7,10 +7,10 @@ WIFI GRATIS EN NUEVA YORK
 :slug: my-super-post-2
 :author: idoia
 
-.. image::gowex.png
+.. image:: gowex.png
    :width: 100%
    :height: 100
-   :scale: 50
+   :scale: 100
    :alt: gowex
 
 La **empresa espa�ola GOWEX** acaba de anunciar que convertir� Nueva York en la mayor red ciudadana 
